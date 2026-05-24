@@ -57,14 +57,4 @@ Both models achieved stable convergence with no signs of overfitting. The main c
 | `Road-Damage-Classification.ipynb` | Main training and evaluation notebook |
 | `Road-Damage-Augmentation.ipynb` | Data augmentation notebook |
 
-## Group Members
 
-Taylor's University — Computer Vision and Natural Language Processing (ITS69204)
-
-| Name | Student ID |
-|------|-----------|
-| Allycia Chin Jia-Hui | 0365117 |
-| Adlin Farzana binti Nazim | 0363834 |
-| Gigi Yip Zhi Qi | 0378449 |
-| Lee Zhong Yan | 0366813 |
-| Tey Hui Yang | 0375906 |
